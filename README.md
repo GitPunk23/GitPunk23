@@ -5,13 +5,13 @@ Hello, I'm Brett. I'm currently a Computer Science and Cybersecurity student bas
 When I'm not writing code I'm either gaming, catching a band, or trying local food with my partner.
   
 ## What I'm Working On 📝
- Computer Science Degree
+* Computer Science Degree
  
- Cybersecurity Analytics Program Certificate
+* Cybersecurity Analytics Program Certificate
  
- Google Project Management: Professional Certificate
+* Google Project Management: Professional Certificate
  
- #100DaysOfCode
+* #100DaysOfCode
   
 ## Connect With Me 🌎
 [Twitter](https://twitter.com/NeonStar_dev)
