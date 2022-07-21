@@ -9,8 +9,6 @@ When I'm not writing code I'm either gaming, checking a band at a show, or tryin
  
 * Cybersecurity Analytics Program Certificate
  
-* Google Project Management: Professional Certificate
- 
 * #100DaysOfCode
   
 ## 🌎Connect With Me 
