@@ -8,8 +8,6 @@ When I'm not writing code I'm either gaming, checking a band at a show, or tryin
 * Computer Science Degree
  
 * Cybersecurity Analytics Program Certificate
- 
-* #100DaysOfCode
   
 ## 🌎Connect With Me 
 [Twitter](https://twitter.com/NeonStar_dev)
