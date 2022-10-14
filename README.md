@@ -8,11 +8,11 @@ When I'm not writing code I'm either gaming, checking a band at a show, or tryin
 * Computer Science Degree
  
 * Cybersecurity Analytics Program Certificate
+
+* MINERVA project (Homelab)
   
 ## 🌎Connect With Me 
 [Twitter](https://twitter.com/NeonStar_dev)
-
-[Dev.to](https://dev.to/neonstar_dev)
 
 ## 📊My GitHub Stats 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NeonStar-Dev&count_private=true&theme=react&showicons=true)]()
