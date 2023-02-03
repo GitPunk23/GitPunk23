@@ -1,7 +1,7 @@
 # Welcome
 
 ## 👨‍💻About me
-Hello, I'm Brett. I'm currently a Computer Science and Cybersecurity student based in Columbus, Ohio. 
+Hello, I'm Brett. I'm currently a Computer Science and Cybersecurity student based in Columbus and Dayton, Ohio. 
 When I'm not writing code I'm either gaming, checking a band at a show, or trying local food with my partner.
   
 ## 📝What I'm Working On
