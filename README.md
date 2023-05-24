@@ -7,6 +7,8 @@ When I'm not writing code I'm either gaming, checking a band at a show, or tryin
 ## 📝What I'm Working On
 * GradeWiz project
 
+* DigitalKitchen project
+
 * MINERVA project (Homelab)
   
 ## 🌎Connect With Me 
